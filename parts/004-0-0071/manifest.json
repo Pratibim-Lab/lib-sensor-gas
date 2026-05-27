@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Gas/004-0-0071:004-0-0071",
+  "name": "004-0-0071",
+  "library": "Sensor_Gas",
+  "file": "Sensor_Gas.kicad_symdir/004-0-0071.kicad_sym",
+  "description": "S8 5%, CO2 sensor, 0.04-5% by volume, 1kHz PWM output, Modbus, THT",
+  "datasheet": "https://rmtplusstoragesenseair.blob.core.windows.net/docs/publicerat/PSP0113.pdf",
+  "keywords": "Senseair co2 gas sensor pwm modbus",
+  "footprint": "",
+  "extends": "004-0-0013",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-gas@master/parts/004-0-0071/",
+  "part_path": "parts/004-0-0071",
+  "symbol_file": "parts/004-0-0071/004-0-0071.kicad_sym",
+  "source_library": "Sensor_Gas.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:05.767Z"
+}

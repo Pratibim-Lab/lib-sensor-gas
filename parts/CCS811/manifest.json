@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Gas/CCS811:CCS811",
+  "name": "CCS811",
+  "library": "Sensor_Gas",
+  "file": "Sensor_Gas.kicad_symdir/CCS811.kicad_sym",
+  "description": "Ultra-low power digital gas sensor for monitoring indoor air quality",
+  "datasheet": "https://www.sciosense.com/wp-content/uploads/documents/SC-001232-DS-3-CCS811B-Datasheet-Revision-2.pdf",
+  "keywords": "metal oxide gas sensor MOX volatile organix comounds VOC I2C",
+  "footprint": "Package_LGA:AMS_LGA-10-1EP_2.7x4mm_P0.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-gas@master/parts/CCS811/",
+  "part_path": "parts/CCS811",
+  "symbol_file": "parts/CCS811/CCS811.kicad_sym",
+  "source_library": "Sensor_Gas.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:05.773Z"
+}

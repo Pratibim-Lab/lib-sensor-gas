@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Gas/TGS-5141:TGS-5141",
+  "name": "TGS-5141",
+  "library": "Sensor_Gas",
+  "file": "Sensor_Gas.kicad_symdir/TGS-5141.kicad_sym",
+  "description": "Figaro Carbon Monoxide sensor",
+  "datasheet": "https://figarosensor.com/product/docs/tgs5141-p00_product%20infomation%28fusa%29_rev07.pdf",
+  "keywords": "CO sensor",
+  "footprint": "Sensor:TGS-5141",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-gas@master/parts/TGS-5141/",
+  "part_path": "parts/TGS-5141",
+  "symbol_file": "parts/TGS-5141/TGS-5141.kicad_sym",
+  "source_library": "Sensor_Gas.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:05.786Z"
+}

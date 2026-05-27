@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Gas/LuminOX_LOX-O2:LuminOX_LOX-O2",
+  "name": "LuminOX_LOX-O2",
+  "library": "Sensor_Gas",
+  "file": "Sensor_Gas.kicad_symdir/LuminOX_LOX-O2.kicad_sym",
+  "description": "SST LuminOX Luminescence-based O2 sensor",
+  "datasheet": "https://sstsensing.com/wp-content/uploads/2021/08/DS0030rev15_LuminOx.pdf",
+  "keywords": "O2 sensor",
+  "footprint": "Sensor:LuminOX_LOX-O2",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-gas@master/parts/LuminOX_LOX-O2/",
+  "part_path": "parts/LuminOX_LOX-O2",
+  "symbol_file": "parts/LuminOX_LOX-O2/LuminOX_LOX-O2.kicad_sym",
+  "source_library": "Sensor_Gas.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:05.777Z"
+}

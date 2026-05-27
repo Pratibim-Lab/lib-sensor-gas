@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Gas/MiCS-5524:MiCS-5524",
+  "name": "MiCS-5524",
+  "library": "Sensor_Gas",
+  "file": "Sensor_Gas.kicad_symdir/MiCS-5524.kicad_sym",
+  "description": "Compact MOS CO sensor",
+  "datasheet": "https://www.sgxsensortech.com/content/uploads/2014/07/1084_Datasheet-MiCS-5524-rev-8.pdf",
+  "keywords": "CO sensor",
+  "footprint": "Sensor:Sensortech_MiCS_5x7mm_P1.25mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-gas@master/parts/MiCS-5524/",
+  "part_path": "parts/MiCS-5524",
+  "symbol_file": "parts/MiCS-5524/MiCS-5524.kicad_sym",
+  "source_library": "Sensor_Gas.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:05.779Z"
+}

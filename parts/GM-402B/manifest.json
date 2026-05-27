@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Gas/GM-402B:GM-402B",
+  "name": "GM-402B",
+  "library": "Sensor_Gas",
+  "file": "Sensor_Gas.kicad_symdir/GM-402B.kicad_sym",
+  "description": "MEMS Combustible Gas Sensor",
+  "datasheet": "https://www.winsen-sensor.com/d/files/me2/mems--gm-402b--manual-v1_1.pdf",
+  "keywords": "gas sensor",
+  "footprint": "Sensor:Winson_GM-402B_5x5mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-gas@master/parts/GM-402B/",
+  "part_path": "parts/GM-402B",
+  "symbol_file": "parts/GM-402B/GM-402B.kicad_sym",
+  "source_library": "Sensor_Gas.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:05.775Z"
+}

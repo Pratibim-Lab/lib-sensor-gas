@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Gas/MQ-6:MQ-6",
+  "name": "MQ-6",
+  "library": "Sensor_Gas",
+  "file": "Sensor_Gas.kicad_symdir/MQ-6.kicad_sym",
+  "description": "Semiconductor Sensor for Flammable Gas",
+  "datasheet": "https://www.winsen-sensor.com/d/files/semiconductor/mq-6.pdf",
+  "keywords": "flammable gas sensor LPG",
+  "footprint": "Sensor:MQ-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-gas@master/parts/MQ-6/",
+  "part_path": "parts/MQ-6",
+  "symbol_file": "parts/MQ-6/MQ-6.kicad_sym",
+  "source_library": "Sensor_Gas.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:05.781Z"
+}

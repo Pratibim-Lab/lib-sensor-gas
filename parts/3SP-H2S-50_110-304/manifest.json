@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Gas/3SP-H2S-50_110-304:3SP-H2S-50_110-304",
+  "name": "3SP-H2S-50_110-304",
+  "library": "Sensor_Gas",
+  "file": "Sensor_Gas.kicad_symdir/3SP-H2S-50_110-304.kicad_sym",
+  "description": "SPEC Sensors electrochemical H2S gas sensor",
+  "datasheet": "https://www.spec-sensors.com/wp-content/uploads/2016/10/3SP_H2S_50-C-Package-110-304.pdf",
+  "keywords": "H2S sensor",
+  "footprint": "Sensor:SPEC_110-xxx_SMD-10Pin_20x20mm_P4.0mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-gas@master/parts/3SP-H2S-50_110-304/",
+  "part_path": "parts/3SP-H2S-50_110-304",
+  "symbol_file": "parts/3SP-H2S-50_110-304/3SP-H2S-50_110-304.kicad_sym",
+  "source_library": "Sensor_Gas.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:05.771Z"
+}

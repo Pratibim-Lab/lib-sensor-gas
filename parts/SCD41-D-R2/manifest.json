@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Gas/SCD41-D-R2:SCD41-D-R2",
+  "name": "SCD41-D-R2",
+  "library": "Sensor_Gas",
+  "file": "Sensor_Gas.kicad_symdir/SCD41-D-R2.kicad_sym",
+  "description": "Photoacoustic CO2 sensor, 40 000 ppm, I2C, 2.4-5.5 V, High accuracy  400 - 5000 ppm",
+  "datasheet": "https://sensirion.com/media/documents/E0F04247/631EF271/CD_DS_SCD40_SCD41_Datasheet_D1.pdf",
+  "keywords": "CO2 sensor I2C",
+  "footprint": "Sensor:Sensirion_SCD4x-1EP_10.1x10.1mm_P1.25mm_EP4.8x4.8mm",
+  "extends": "SCD40-D-R2",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-gas@master/parts/SCD41-D-R2/",
+  "part_path": "parts/SCD41-D-R2",
+  "symbol_file": "parts/SCD41-D-R2/SCD41-D-R2.kicad_sym",
+  "source_library": "Sensor_Gas.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:05.784Z"
+}
